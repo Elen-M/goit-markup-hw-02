@@ -29,6 +29,10 @@ ul { list-style: none;}
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
+.header-link:hover,
+.header-link:focus {
+    color: #4d5ae5;
+}
 
 .header-contacts-link {
     font-family: "Roboto", sans-serif;
@@ -38,6 +42,10 @@ ul { list-style: none;}
         letter-spacing: 0.02em;
         color: #434455;
 }
+.header-contacts-link:hover,
+.header-contacts-link:focus
+{color: #4d5ae5;}
+
 .title-part { background: #2e2f42;}
 
 .title {
@@ -88,7 +96,6 @@ ul { list-style: none;}
 }
 
 .qualities-text {
-    font-weight: 400;
         font-size: 16px;
         line-height: 150%;
         letter-spacing: 0.02em;
@@ -120,7 +127,6 @@ ul { list-style: none;}
 }
 
 .team-text {
-    font-weight: 400;
         font-size: 16px;
         line-height: 150%;
         letter-spacing: 0.02em;
@@ -140,7 +146,6 @@ ul { list-style: none;}
 }
 
 .portfolio-text {
-    font-weight: 400;
         font-size: 16px;
         line-height: 150%;
         letter-spacing: 0.02em;
@@ -160,7 +165,6 @@ ul { list-style: none;}
 }
 
 .footer-text {
-    font-weight: 400;
         font-size: 16px;
         line-height: 150%;
         letter-spacing: 0.02em;
